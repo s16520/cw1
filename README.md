@@ -1,3 +1,4 @@
-# cw1
+# Weronika Sosnowska, 12c, s16520
 
-Piotr Gago, 12c, s16520
+# Ćwiczenia 1
+
